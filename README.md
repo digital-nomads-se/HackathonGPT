@@ -13,3 +13,10 @@ Welcome to the HackathonGPT Chat App repository! This application, developed spe
 ## Usage
 
 To get started, simply load your PDF and CSV documents into the app. Once they're loaded, you're all set to begin asking questions and receiving information directly from the contents of these documents.
+
+
+## Examples
+
+Drive link with prompts and responses -
+
+https://drive.google.com/drive/folders/1JXt0rq9qDuutWweec33qiBxLQn7Z-Xv6?usp=sharing
