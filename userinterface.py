@@ -3,22 +3,20 @@ css = '''
 .chat-message {
     padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1rem; display: flex
 }
-.chat-message.user {
+.chat-message.prompt {
     background-color: #2b313e
 }
-.chat-message.bot {
+.chat-message.response {
     background-color: #475063
 }
-.chat-message .avatar {
-  width: 20%;
-}
-.chat-message .avatar img {
+
+.chat-message .prompt img {
   max-width: 78px;
   max-height: 78px;
   border-radius: 50%;
   object-fit: cover;
 }
-.chat-message .message {
+.chat-message .response {
   width: 80%;
   padding: 0 1.5rem;
   color: #fff;
